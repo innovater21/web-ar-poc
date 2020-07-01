@@ -7,9 +7,9 @@
         <a-marker preset="arjs">
             <a-entity
             position="0 0 0"
-            rotation="0 0 0"
+            rotation="-90 0 0"
             scale="0.5 0.5 0.5"
-            gltf-model="/web-ar-poc/models/Box.gltf"
+            gltf-model="/web-ar-poc/models/Bowl.gltf"
             ></a-entity>
         </a-marker>
         <a-entity camera></a-entity>
