@@ -1,6 +1,6 @@
 # AR PROJECT USING Ar.js
 
-##Steps to run
+## Steps to run
 
 1. Clone the repository and start a local server
     1) For Linux clone the folder int /var/www/html/
